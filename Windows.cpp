@@ -51,7 +51,7 @@ int CALLBACK WinMain(
 		500, 500, 
 		NULL, NULL, 
 		hInstance, 
-		NULLs
+		NULL
 	);
 
 	if (!hWnd) {
